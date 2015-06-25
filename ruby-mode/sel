@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : select
+# key: sel
 # --
 select { |${1:variable}| $0$1 }

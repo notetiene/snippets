@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name: Table
+# key: tbl
 # --
 Given ${1:the following}
   | $0 |

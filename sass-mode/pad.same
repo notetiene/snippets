@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : same
+# key: pad.same
 # --
 padding: $1px

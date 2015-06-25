@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name: debug
+# key: d
 # --
 trace (show $0) undefined

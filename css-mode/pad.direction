@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : direction
+# key: pad.direction
 # --
 padding-${1:$$(yas/choose-value '("top" "right" "bottom" "left"))}: $2px;

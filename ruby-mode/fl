@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : flash
+# key: fl
 # --
 flash[:${1:$$(yas/choose-value '("error" "message" "notice" "warning"))}] = '$0'

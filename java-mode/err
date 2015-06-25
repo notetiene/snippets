@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : System.err.println
+# key: err
 # --
 System.err.println($0);

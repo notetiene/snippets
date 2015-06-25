@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : Instance variable
+# key: ins
 # --
 /**
  * $0

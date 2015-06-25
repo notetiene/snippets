@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : should_have_db_index
+# key: should_have_db_index
 # --
 should_have_db_index :${1:attribute}

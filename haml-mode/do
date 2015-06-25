@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : do block
+# key: do
 # --
 - $1 do
   $0

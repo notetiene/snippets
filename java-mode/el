@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
 #name : else { ... }
 #contributor: Andrew Myers <asm198@gmail.com>
+# key: el
 # --
 else {
   $0

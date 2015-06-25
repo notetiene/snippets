@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : after_filter
+# key: af
 # --
 after_filter :${1:method_name}, :${2:condition} => 

@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : if - Other
+# key: if
 # --
 if [[ $1 ]]; then
   $0

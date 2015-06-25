@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : times
+# key: times
 # --
 ${1:x}.times do$2
   $0

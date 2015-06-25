@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : puts
+# key: ps
 # --
 puts 

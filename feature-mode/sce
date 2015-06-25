@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name: Scenario
+# key: sce
 # --
 Scenario: ${1:name}
   $0

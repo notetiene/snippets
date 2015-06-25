@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : Describe
+# key: ds
 # --
 describe '${1:description}', ->
   $0

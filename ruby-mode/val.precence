@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : presence
+# key: val.presence
 # --
 validates :${1:attributes}, :presence => true

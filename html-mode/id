@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : id
+# key: id
 # --
 id="$0"

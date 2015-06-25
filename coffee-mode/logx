@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : console.log
+# key: logx
 # --
 console.log '$1', $1

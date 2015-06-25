@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : true
+# key: wh.while_true
 # --
 while(true) {
   $0

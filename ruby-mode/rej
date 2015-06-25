@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : reject
+# key: rej
 # --
 reject { |${1:variable}| $0 }

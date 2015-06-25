@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : inclusion
+# key: val.inclusion
 # --
 validates :${1:attributes}, :inclusion => { :in => $0 }

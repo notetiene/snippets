@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : should_render_template
+# key: should.render_template
 # --
 should_render_template ${1:name}

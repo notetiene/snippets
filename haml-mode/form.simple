@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : simple
+# key: form.simple
 # --
 = simple_form_for ${1:object} do |form|
   = form.input :${2:input}

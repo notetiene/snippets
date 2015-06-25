@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : color
+# key: col
 # --
 color: $1

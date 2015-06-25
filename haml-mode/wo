@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : with_options
+# key: wo
 # --
 - $1with_options ${2:options} do |${3:variable_name}|
   = $3.$0

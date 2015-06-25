@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : position
+# key: pos
 # --
 position: ${1:$$(yas/choose-value '("absolute" "relative" "static"))}

@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : redirect_to
+# key: ret
 # --
 redirect_to $1

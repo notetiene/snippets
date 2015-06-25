@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : alias
+# key: al
 # --
 alias ${1:name}='$0'

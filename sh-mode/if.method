@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : if - function
+# key: if.method
 # --
 if ${1:fn}; then
   $0

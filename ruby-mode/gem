@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : gem
+# key: gem
 # --
 gem '${1:name}', '${2:version}'

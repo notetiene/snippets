@@ -1,8 +1,9 @@
 # -*- mode: snippet -*-
 #name : Interface
+# key: inf
 # --
 /**
- * @author Johan Andersson (johan.rejeep@gmail.com)
+ * @author `(user-full-name)` (`(if(boundp 'user-mail-adress) (print user-mail-adress) (concat user-real-login-name "@" system-name))`)
  * @date `(format-time-string "%Y-%m-%d")`
  */
 public interface ${1:`(file-name-sans-extension (buffer-name))`} {

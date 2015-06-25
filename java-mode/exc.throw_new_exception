@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : throw
+# key: exc.throw_new_exeception
 # --
 throw new ${1:type}Exception($2);

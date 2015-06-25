@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : named_scope
+# key: ns
 # --
 named_scope :${1:scope_name}, 

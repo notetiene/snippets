@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : different
+# key: pad.different
 # --
 padding: ${1:top}px ${2:right}px ${3:bottom}px ${4:left}px;

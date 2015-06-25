@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name: Py String
+# key: ps
 # --
 Given ${1:the following text}
   """

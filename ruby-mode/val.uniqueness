@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : uniqueness
+# key: val.uniqueness
 # --
 validates :${1:attributes}, :uniqueness => true

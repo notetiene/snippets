@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : false
+# key: ass.false
 # --
 assertFalse("${1:message}", ${2:expression});

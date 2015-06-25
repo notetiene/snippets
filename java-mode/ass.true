@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : true
+# key: ass.true
 # --
 assertTrue("${1:message}", ${2:expression});

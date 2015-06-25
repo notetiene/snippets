@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : acceptance
+# key: val.acceptance
 # --
 validates :${1:attributes}, :acceptance => true

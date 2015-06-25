@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : same
+# key: mar.same
 # --
 margin: $1px;

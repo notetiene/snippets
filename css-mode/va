@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : vertical-align
+#key : va
 # --
 vertical-align: $1;

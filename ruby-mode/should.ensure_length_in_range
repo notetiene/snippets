@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : should_ensure_length_in_range
+# key: should.ensure_length_in_range
 # --
 should_ensure_length_in_range :${1:attribute}, ${2:range}

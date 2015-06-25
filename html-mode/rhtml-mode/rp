@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : render partial
+# key: rp
 # --
 <%= render :partial => $1 %>

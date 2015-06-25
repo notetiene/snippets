@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : collect(&:attribute)
+# key: col.no_block
 # --
 collect(&:${1:attribute})

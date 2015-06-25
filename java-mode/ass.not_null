@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : not null
+# key: ass.not_null
 # --
 assertNotNull("${1:message}", ${2:object});

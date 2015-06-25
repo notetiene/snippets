@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : print log message
+# key: log
 # --
 <% puts "###########################" %>
 <% puts "###########################" %>

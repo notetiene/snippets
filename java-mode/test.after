@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : @After
+# key: test.after
 # --
 /**
  * 

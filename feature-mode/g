@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name: Given
+# key: g
 # --
 Given ${1:a known starting condition}
 $0

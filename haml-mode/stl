@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : style
+# key: stl
 # --
 :style => '$0'

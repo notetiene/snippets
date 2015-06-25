@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : each { ... }
+# key: each.inline
 # --
 each { |${1:variable_name}| $0 }

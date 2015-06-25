@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : Display - block
+# key: disp
 # --
 display: ${1:$$(yas/choose-value '("block" "none" "inline"))};

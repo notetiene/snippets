@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : options
+# key: o
 # --
 options[:$1]

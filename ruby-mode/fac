@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : Factory
+# key: fac
 # --
 Factory(:$0)

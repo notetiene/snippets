@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : should_ensure_length_is
+# key: should.ensure_length_is
 # --
 should_ensure_length_is :${1:attribute}, ${2:length}

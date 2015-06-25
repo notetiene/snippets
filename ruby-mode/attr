@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : attr
+# key: attr
 # --
 attr_${1:$$(yas/choose-value '("accessor" "reader" "writer"))} :${2:attributes}

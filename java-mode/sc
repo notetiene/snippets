@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : Scanner
+# key: sc
 # --
 Scanner ${1:variable} = null;
 

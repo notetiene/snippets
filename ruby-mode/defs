@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : Static method
+# key: defs
 # --
 def self.${1:name}
   $0

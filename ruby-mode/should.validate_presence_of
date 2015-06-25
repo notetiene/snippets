@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : should_validate_presence_of
+# key: should.validate_presence_of
 # --
 should_validate_presence_of :${1:attribute}

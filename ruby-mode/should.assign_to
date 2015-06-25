@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : should_assign_to
+# key: should.assign_to
 # --
 should_assign_to :${1:variable}

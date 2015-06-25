@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : Class
+# key: cls
 # --
 /**
  * @author `user-full-name` (`user-mail-address`)

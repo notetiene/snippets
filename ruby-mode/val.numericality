@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : numericality
+# key: val.numericality
 # --
 validates :${1:attributes}, :numericality => true

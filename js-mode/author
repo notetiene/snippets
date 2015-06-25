@@ -1,8 +1,9 @@
 # -*- mode: snippet -*-
 #name : Author
+# key: author
 # --
 /**
- * Author: Johan Andersson (johan.rejeep@gmail.com) 
+ * Author: `(user-full-name)` (`(if(boundp 'user-mail-adress) (print user-mail-adress) (concat user-real-login-name "@" system-name))`)
  * Created: `(format-time-string "%Y-%m-%d")`
  * 
  * $0

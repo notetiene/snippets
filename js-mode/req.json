@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name : json
+# key: req.json
 # --
 new Request.JSON({
   onSuccess: function(responseJSON, responseText) {

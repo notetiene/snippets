@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : float
+# key: fl
 # --
 float: ${1:$$(yas/choose-value '("left" "right" "none"))}

@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : translate
+# key: t
 # --
 t('$0')

@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : height
+# key: h
 # --
 height: $1px;

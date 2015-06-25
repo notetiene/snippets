@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : exclusion
+# key: val.exclusion
 # --
 validates :${1:attributes}, :exclusion => { :in => $0 }

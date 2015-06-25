@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : end
+# key: e
 # --
 <% end %>

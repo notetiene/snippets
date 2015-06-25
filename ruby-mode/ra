@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : read_attribute
+# key: ra
 # --
 read_attribute(:$1)

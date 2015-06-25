@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : equals
+# key: ass.equals
 # --
 assertEquals("${1:message}", ${2:expected}, ${3:actual});

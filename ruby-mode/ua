@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : update_attirbute
+# key: ua
 # --
 update_attribute(:${1:attr}, ${2:value})

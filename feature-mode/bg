@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name: Background
+# key: bg
 # --
 Background:
   $0

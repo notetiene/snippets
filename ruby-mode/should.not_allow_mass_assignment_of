@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : should_not_allow_mass_assignment_of
+# key: should.not_allow_mass_assignment_of
 # --
 should_not_allow_mass_assignment_of :${1:attribute}

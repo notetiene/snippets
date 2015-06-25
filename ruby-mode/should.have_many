@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : should_have_many
+# key: should.have_many
 # --
 should_have_many :${1:attribute}

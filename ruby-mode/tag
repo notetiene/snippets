@@ -1,4 +1,5 @@
 # -*- mode: snippet -*-
 #name : content_tag
+# key: tag
 # --
 content_tag(:${1:tag}, $0)

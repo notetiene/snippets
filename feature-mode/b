@@ -1,5 +1,6 @@
 # -*- mode: snippet -*-
 #name: But
+# key: b
 # --
 But ${1:something else}
 $0
