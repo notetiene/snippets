@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+# name : rt
+# key: rt
+# --
+<rt>$0</rt>

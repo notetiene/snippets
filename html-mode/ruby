@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+# name : ruby
+# key: ruby
+# TODO: Include no ruby support (rp?)
+# --
+<ruby${1: lang="$2"}>${3:<rt>$4</rt>}$0</ruby>

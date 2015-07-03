@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+# name : bdi
+# key: bdi
+# --
+<bdi${1: dir="${2:rtl}"}>$0</bdi>
