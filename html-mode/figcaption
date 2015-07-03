@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+# name : figcaption
+# key: figcaption
+# --
+<figcaption>$0</figcaption>

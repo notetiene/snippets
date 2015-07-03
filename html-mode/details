@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+# name : details
+# key: details
+# --
+<details${0: open="${1:false}"}>
+${2:<summary>$3</<summary>}
+${4:Hidden}
+</details>
