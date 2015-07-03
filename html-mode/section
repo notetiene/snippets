@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+#name : section
+# key: section
+# --
+<section>
+${1:<h1>$2</h1>
+}${3:<p>$4</p>
+}$0</section>

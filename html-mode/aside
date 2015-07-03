@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+#name : aside
+# key: aside
+# --
+<aside>$0</aside>
