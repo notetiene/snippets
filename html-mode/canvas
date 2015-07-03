@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+#name : canvas
+# key: canvas
+# --
+<canvas id="$1"${2: width="$3"}${5: height="$5"}>$0</canvas> 
