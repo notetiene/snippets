@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+#name : output
+# key: output
+# TODO:
+# --
+<output name="$1"${2: for="$3"}${4: form="$5"}>$0</output>

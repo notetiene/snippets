@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+#name : keygen
+# key: keygen
+# TODO:
+# --
+<keygen name="$1"${2: challenge="$3"}${4: keytype="${5:RSA}"}${6: keyparams="${7:pqg-params}"}${8: autofocus}${9: disabled}>

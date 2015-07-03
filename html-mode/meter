@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: notetiene
+# name : meter
+# key: meter
+# --
+<meter${2: max="$3"}${3: max="$4"}${5: low="$6"}${7: high="$8"}${9: optimum="$10"}${11: form="$12"} value="$1">$0</meter>
